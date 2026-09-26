@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1790439418 source:c:\users\marti\documents\20261\psi\psi_verifier\psi_verifier.c
+	<stdbool.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"shared.h"
+	"omp.h"
+
+1790363558 c:\users\marti\documents\20261\psi\psi_verifier\shared.h
+	<openssl/sha.h>
+	<openssl/conf.h>
+	<openssl/evp.h>
+	<openssl/err.h>
+	<openssl/rand.h>
+	"omp.h"
+
